@@ -1,0 +1,6 @@
+=== SCOREBOARD ===
+Player[1] Score: 1092 Time: 15
+Player[2] Score: 686 Time: 16
+Player[2] Score: 666 Time: 21
+Player[1] Score: 651 Time: 22
+Player[1] Score: 558 Time: 21
